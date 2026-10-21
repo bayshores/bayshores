@@ -25,7 +25,8 @@ Local flashcard app that turns class material into flashcards and quizzes. It re
 Interactive UC San Diego campus map with building search, weekly class schedules, and walking directions between classrooms.
 
 🔍 **[RealiBuddy](https://github.com/bayshores/Realibuddy)**<br>
-Real-time fact-checker for speech or text that buzzes a Pavlok wristband when it catches a false claim.
+Real-time fact-checker for speech or text that buzzes a Pavlok wristband when it catches a false claim.<br>
+🏆 Won Best AI/ML at HackCC Fall 2025.
 
 🏋️ **[Doppel](https://github.com/Yinghao-Guan/Doppel)**<br>
 Tracks your workout reps through your camera, predicts how you'll perform in two weeks, and compares training plans.<br>
